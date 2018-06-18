@@ -1,0 +1,2136 @@
+{
+  "@context": {
+    "schema": "https://schema.org/",
+    "name": "schema:name",
+    "address": "schema:address",
+    "category": "schema:category",
+    "geo": "schema:geo",
+    "latitude": "schema:latitude",
+    "longitude": "schema:longitude"
+  },
+  "@graph": [
+    {
+      "@type": "schema:Place",
+      "name": "ららぽーと甲子園Ｆ駐車場",
+      "address": "甲子園町、甲子園八番町、甲子園九番町",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.71536576",
+        "longitude": "135.3645978"
+      },
+      "category": "広域避難地"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "ららぽーと甲子園Ｇ駐車場",
+      "address": "甲子園町、甲子園八番町、甲子園九番町",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.71571847",
+        "longitude": "135.3624518"
+      },
+      "category": "広域避難地"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "甲子園球場",
+      "address": "甲子園町、甲子園八番町、甲子園九番町",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.72140612",
+        "longitude": "135.3603863"
+      },
+      "category": "広域避難地"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "ららぽーと甲子園A駐車場",
+      "address": "甲子園町、甲子園八番町、甲子園九番町",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.71650092",
+        "longitude": "135.3647766"
+      },
+      "category": "広域避難地"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "関西学院大学",
+      "address": "上ケ原一番町",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.7654819",
+        "longitude": "135.3435423"
+      },
+      "category": "広域避難地"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "関西学院大学",
+      "address": "上ケ原一番町",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.76401463",
+        "longitude": "135.3428245"
+      },
+      "category": "広域避難地"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "関西学院大学",
+      "address": "上ケ原一番町",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.76705148",
+        "longitude": "135.3445754"
+      },
+      "category": "広域避難地"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "関西学院大学",
+      "address": "上ケ原一番町",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.76660601",
+        "longitude": "135.3457488"
+      },
+      "category": "広域避難地"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "神戸女学院大学／西宮聖和キャンパス",
+      "address": "岡田山",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.75866169",
+        "longitude": "135.3505923"
+      },
+      "category": "広域避難地"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "神戸女学院大学／西宮聖和キャンパス",
+      "address": "岡田山",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.76237917",
+        "longitude": "135.3506516"
+      },
+      "category": "広域避難地"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "神戸女学院大学／西宮聖和キャンパス",
+      "address": "岡田山",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.76171407",
+        "longitude": "135.3519389"
+      },
+      "category": "広域避難地"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "神戸女学院大学／西宮聖和キャンパス",
+      "address": "岡田山",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.76023617",
+        "longitude": "135.3506975"
+      },
+      "category": "広域避難地"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "神戸女学院大学／西宮聖和キャンパス",
+      "address": "岡田山",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.75928514",
+        "longitude": "135.3500815"
+      },
+      "category": "広域避難地"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "報徳学園",
+      "address": "上大市５丁目",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.76822685",
+        "longitude": "135.372018"
+      },
+      "category": "広域避難地"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "香枦園テニスクラブ",
+      "address": "中葭原町",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.72620889",
+        "longitude": "135.326085"
+      },
+      "category": "広域避難地"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "甲陽学院中学校",
+      "address": "中葭原町",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.72823852",
+        "longitude": "135.3246508"
+      },
+      "category": "広域避難地"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "満池谷墓地",
+      "address": "神原、奥原",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.75485656",
+        "longitude": "135.3350821"
+      },
+      "category": "広域避難地"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "鳴尾浜公園",
+      "address": "枝川町",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.70970371",
+        "longitude": "135.3586097"
+      },
+      "category": "広域避難地"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "鳴尾浜公園",
+      "address": "枝川町",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.70792243",
+        "longitude": "135.3624476"
+      },
+      "category": "広域避難地"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "西宮浜総合公園",
+      "address": "西宮浜３丁目",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.71902358",
+        "longitude": "135.328"
+      },
+      "category": "広域避難地"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "瓦林公園",
+      "address": "上甲子園３丁目",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.73196106",
+        "longitude": "135.3653617"
+      },
+      "category": "広域避難地"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "御前浜公園",
+      "address": "西波止町",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.72526995",
+        "longitude": "135.3264799"
+      },
+      "category": "広域避難地"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "御前浜公園",
+      "address": "西波止町",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.72356446",
+        "longitude": "135.3318101"
+      },
+      "category": "広域避難地"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "鳴尾浜臨海公園",
+      "address": "鳴尾浜１丁目",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.69689782",
+        "longitude": "135.3665979"
+      },
+      "category": "広域避難地"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "鳴尾浜臨海公園",
+      "address": "鳴尾浜１丁目",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.70012782",
+        "longitude": "135.3688708"
+      },
+      "category": "広域避難地"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "鳴尾浜臨海公園",
+      "address": "鳴尾浜１丁目",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.69179815",
+        "longitude": "135.3600954"
+      },
+      "category": "広域避難地"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "鳴尾浜臨海公園",
+      "address": "鳴尾浜１丁目",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.6937901",
+        "longitude": "135.3624718"
+      },
+      "category": "広域避難地"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "鳴尾浜臨海公園",
+      "address": "鳴尾浜１丁目",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.69520857",
+        "longitude": "135.3643538"
+      },
+      "category": "広域避難地"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "北山公園",
+      "address": "北山町",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.76432615",
+        "longitude": "135.3195116"
+      },
+      "category": "広域避難地"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "武庫川河川敷緑地",
+      "address": "一里山町他",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.72004774",
+        "longitude": "135.3827809"
+      },
+      "category": "広域避難地"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "武庫川河川敷緑地",
+      "address": "一里山町他",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.71775266",
+        "longitude": "135.3815464"
+      },
+      "category": "広域避難地"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "武庫川河川敷緑地",
+      "address": "一里山町他",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.74619416",
+        "longitude": "135.3754812"
+      },
+      "category": "広域避難地"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "武庫川河川敷緑地",
+      "address": "一里山町他",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.73553335",
+        "longitude": "135.3798061"
+      },
+      "category": "広域避難地"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "武庫川河川敷緑地",
+      "address": "一里山町他",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.70906685",
+        "longitude": "135.3784625"
+      },
+      "category": "広域避難地"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "武庫川河川敷緑地",
+      "address": "一里山町他",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.74194811",
+        "longitude": "135.3776432"
+      },
+      "category": "広域避難地"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "武庫川河川敷緑地",
+      "address": "一里山町他",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.7139169",
+        "longitude": "135.3802082"
+      },
+      "category": "広域避難地"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "武庫川河川敷緑地",
+      "address": "一里山町他",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.72673156",
+        "longitude": "135.380685"
+      },
+      "category": "広域避難地"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "武庫川河川敷緑地",
+      "address": "一里山町他",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.7566868",
+        "longitude": "135.3724854"
+      },
+      "category": "広域避難地"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "武庫川河川敷緑地",
+      "address": "一里山町他",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.7481478",
+        "longitude": "135.3749247"
+      },
+      "category": "広域避難地"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "武庫川河川敷緑地",
+      "address": "一里山町他",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.77775805",
+        "longitude": "135.3728094"
+      },
+      "category": "広域避難地"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "武庫川河川敷緑地",
+      "address": "一里山町他",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.76937754",
+        "longitude": "135.3730151"
+      },
+      "category": "広域避難地"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "武庫川河川敷緑地",
+      "address": "一里山町他",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.76530918",
+        "longitude": "135.3726416"
+      },
+      "category": "広域避難地"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "夙川河川敷緑地",
+      "address": "泉町他",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.73831195",
+        "longitude": "135.3284296"
+      },
+      "category": "広域避難地"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "夙川河川敷緑地",
+      "address": "泉町他",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.74207393",
+        "longitude": "135.3286067"
+      },
+      "category": "広域避難地"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "夙川河川敷緑地",
+      "address": "泉町他",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.74781236",
+        "longitude": "135.3291845"
+      },
+      "category": "広域避難地"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "夙川河川敷緑地",
+      "address": "泉町他",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.74243804",
+        "longitude": "135.3283009"
+      },
+      "category": "広域避難地"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "夙川河川敷緑地",
+      "address": "泉町他",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.73232617",
+        "longitude": "135.3291257"
+      },
+      "category": "広域避難地"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "夙川河川敷緑地",
+      "address": "泉町他",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.72920999",
+        "longitude": "135.3288126"
+      },
+      "category": "広域避難地"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "夙川河川敷緑地",
+      "address": "泉町他",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.74039087",
+        "longitude": "135.3280612"
+      },
+      "category": "広域避難地"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "夙川河川敷緑地",
+      "address": "泉町他",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.73513693",
+        "longitude": "135.3289179"
+      },
+      "category": "広域避難地"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "夙川河川敷緑地",
+      "address": "泉町他",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.73658217",
+        "longitude": "135.329077"
+      },
+      "category": "広域避難地"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "西宮浜小学校",
+      "address": "西宮浜４丁目３番12号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.71591108",
+        "longitude": "135.3275871"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "西宮浜中学校",
+      "address": "西宮浜４丁目２番31号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.71597789",
+        "longitude": "135.3296724"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "西宮浜公民館",
+      "address": "西宮浜４丁目13番１号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.71219642",
+        "longitude": "135.3278722"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "県立西宮南高等学校",
+      "address": "高須町２丁目１番43号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.70412252",
+        "longitude": "135.3662461"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "高須小学校",
+      "address": "高須町１丁目１番41号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.701541",
+        "longitude": "135.3690728"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "高須西小学校",
+      "address": "高須町２丁目１番44号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.70486097",
+        "longitude": "135.3650557"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "高須中学校",
+      "address": "高須町２丁目１番48号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.70924911",
+        "longitude": "135.3691448"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "鳴尾南中学校",
+      "address": "高須町１丁目１番36号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.70625677",
+        "longitude": "135.3722045"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "高須公民館",
+      "address": "高須町２丁目１番35号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.70560478",
+        "longitude": "135.3693975"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "鳴尾小学校",
+      "address": "鳴尾町５丁目４番６号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.71889426",
+        "longitude": "135.367871"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "鳴尾東小学校",
+      "address": "笠屋町30番50号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.71180454",
+        "longitude": "135.3732638"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "甲子園浜小学校",
+      "address": "古川町１番65号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.71289871",
+        "longitude": "135.366423"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "南甲子園小学校",
+      "address": "南甲子園３丁目９番16号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.7188974",
+        "longitude": "135.3528055"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "鳴尾中学校",
+      "address": "甲子園八番町１番26号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.71828478",
+        "longitude": "135.3650046"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "浜甲子園中学校",
+      "address": "古川町２番60号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.71331754",
+        "longitude": "135.3693036"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "市立西宮東高等学校",
+      "address": "古川町１番12号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.71421355",
+        "longitude": "135.3667498"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "鳴尾公民館",
+      "address": "鳴尾町１丁目８番２号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.7179563",
+        "longitude": "135.3717275"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "鳴尾東公民館",
+      "address": "東鳴尾町１丁目９番１号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.71271771",
+        "longitude": "135.3766172"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "南甲子園公民館",
+      "address": "甲子園九番町15番40号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.71452384",
+        "longitude": "135.358269"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "鳴尾体育館",
+      "address": "上田西町４番43号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.70867855",
+        "longitude": "135.3708782"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "浜甲子園センター",
+      "address": "枝川町19番10号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.71082881",
+        "longitude": "135.3566295"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "鳴尾中央センター",
+      "address": "鳴尾町３丁目５番14号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.71836475",
+        "longitude": "135.3701015"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "鳴尾センター",
+      "address": "笠屋町19番１号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.71312766",
+        "longitude": "135.3748668"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "小松小学校",
+      "address": "小松東町１丁目３番59号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.72488324",
+        "longitude": "135.380796"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "鳴尾北小学校",
+      "address": "学文殿町２丁目２番７号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.72520634",
+        "longitude": "135.3724932"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "学文中学校",
+      "address": "学文殿町１丁目５番７号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.7236409",
+        "longitude": "135.3744975"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "学文公民館",
+      "address": "学文殿町２丁目４番24号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.72420107",
+        "longitude": "135.3724134"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "八ツ松市民館",
+      "address": "甲子園六番町11番12号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.72395167",
+        "longitude": "135.3658654"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "小松センター",
+      "address": "小松北町２丁目４番１号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.72502086",
+        "longitude": "135.3787555"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "上甲子園小学校",
+      "address": "甲子園口５丁目９番４号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.73603798",
+        "longitude": "135.3684504"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "春風小学校",
+      "address": "上甲子園３丁目8番39号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.73074817",
+        "longitude": "135.3649729"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "西宮養護学校",
+      "address": "甲子園春風町２番29号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.73058932",
+        "longitude": "135.3608443"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "上甲子園中学校",
+      "address": "上甲子園４丁目９番11号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.73320933",
+        "longitude": "135.3643202"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "春風公民館",
+      "address": "甲子園春風町２番21号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.73035264",
+        "longitude": "135.3612427"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "上甲子園公民館",
+      "address": "甲子園口３丁目９番26号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.73769827",
+        "longitude": "135.3736987"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "甲子園口市民館",
+      "address": "甲子園口６丁目６番20号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.73781303",
+        "longitude": "135.3664658"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "上甲子園センター",
+      "address": "甲子園口３丁目９番３号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.73792336",
+        "longitude": "135.3737015"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "瓦林公園センター",
+      "address": "上甲子園３丁目７番４号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.73241952",
+        "longitude": "135.365732"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "用海小学校",
+      "address": "用海町３番54号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.73203669",
+        "longitude": "135.3438264"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "今津小学校",
+      "address": "今津二葉町４番10号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.72694018",
+        "longitude": "135.3527574"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "津門小学校",
+      "address": "津門呉羽町５番13号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.73264398",
+        "longitude": "135.3548071"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "真砂中学校",
+      "address": "今津真砂町１番10号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.71882646",
+        "longitude": "135.3482799"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "今津中学校",
+      "address": "今津二葉町５番15号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.72801388",
+        "longitude": "135.3507357"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "今津公民館",
+      "address": "今津水波町９番28号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.72844064",
+        "longitude": "135.353424"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "用海公民館",
+      "address": "石在町10番21号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.72807866",
+        "longitude": "135.342123"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "教育会館",
+      "address": "津門呉羽町９番30号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.73158697",
+        "longitude": "135.3558526"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "網引市民館",
+      "address": "甲子園網引町７番１号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.72174581",
+        "longitude": "135.3560045"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "今津南市民館",
+      "address": "今津出在家町10番５号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.72571554",
+        "longitude": "135.3484358"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "大箇市民館",
+      "address": "津門大箇町７番29号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.73423807",
+        "longitude": "135.356893"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "今津体育館",
+      "address": "今津真砂町１番４号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.71971959",
+        "longitude": "135.349961"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "勤労会館",
+      "address": "松原町２番37号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.73621953",
+        "longitude": "135.3450964"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "浜脇小学校",
+      "address": "浜脇町５番48号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.73233934",
+        "longitude": "135.3364757"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "香櫨園小学校",
+      "address": "中浜町３番32号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.73160958",
+        "longitude": "135.3257066"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "浜脇中学校",
+      "address": "宮前町３番５号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.73215169",
+        "longitude": "135.3346505"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "教育文化センター",
+      "address": "川添町15番26号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.73087837",
+        "longitude": "135.3299525"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "夙東市民館",
+      "address": "川添町10番30号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.72870104",
+        "longitude": "135.3301828"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "市庭市民館",
+      "address": "市庭町７番13号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.73419501",
+        "longitude": "135.3308763"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "香櫨園市民館",
+      "address": "中浜町3-15",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.73165792",
+        "longitude": "135.326202"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "浜脇公民館",
+      "address": "浜脇町５番14号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.7317633",
+        "longitude": "135.3370379"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "県立西宮香風高等学校",
+      "address": "建石町7番43号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.72906205",
+        "longitude": "135.3326325"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "瓦林小学校",
+      "address": "瓦林町26番19号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.74686766",
+        "longitude": "135.3677471"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "瓦木小学校",
+      "address": "大屋町10番20号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.74416149",
+        "longitude": "135.3662591"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "深津小学校",
+      "address": "深津町５番22号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.7401535",
+        "longitude": "135.3572998"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "深津中学校",
+      "address": "深津町６番75号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.7395588",
+        "longitude": "135.3577333"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "北甲子園口市民館",
+      "address": "松並町５番12号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.74416083",
+        "longitude": "135.3736876"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "瓦木公民館",
+      "address": "瓦林町８番１号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.74395722",
+        "longitude": "135.3672775"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "高木小学校",
+      "address": "高木西町25番27号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.75113243",
+        "longitude": "135.3604612"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "樋ノ口小学校",
+      "address": "樋ノ口町２丁目３番32号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.75822416",
+        "longitude": "135.367311"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "甲武中学校",
+      "address": "樋ノ口町１丁目７番55号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.76254108",
+        "longitude": "135.3687479"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "瓦木中学校",
+      "address": "薬師町４番15号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.75345221",
+        "longitude": "135.3655033"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "高木公民館",
+      "address": "高木東町15番10号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.75152137",
+        "longitude": "135.3639592"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "高木センター",
+      "address": "伏原町１番58号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.75267516",
+        "longitude": "135.3577105"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "北瓦木センター",
+      "address": "上之町24番40号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.75345196",
+        "longitude": "135.368951"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "平木小学校",
+      "address": "平木町４番１号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.74551171",
+        "longitude": "135.3495354"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "平木中学校",
+      "address": "平木町６番19号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.74678555",
+        "longitude": "135.3493902"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "中央公民館",
+      "address": "高松町４番８号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.74385912",
+        "longitude": "135.3570764"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "若竹公民館",
+      "address": "西福町15番12号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.74070594",
+        "longitude": "135.3508384"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "平木市民館",
+      "address": "大畑町１番35号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.74760083",
+        "longitude": "135.3492048"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "中市民館",
+      "address": "中前田町８番11号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.74319342",
+        "longitude": "135.3441028"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "中央体育館分館",
+      "address": "神祇官町２番６号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.74036339",
+        "longitude": "135.3514385"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "神原小学校",
+      "address": "神原12番62号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.75400187",
+        "longitude": "135.3314514"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "大社小学校",
+      "address": "桜谷町９番７号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.74607162",
+        "longitude": "135.3362076"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "安井小学校",
+      "address": "安井町１番25号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.73947851",
+        "longitude": "135.3333548"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "安井小学校",
+      "address": "安井町１番25号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.73972912",
+        "longitude": "135.3341145"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "大社中学校",
+      "address": "神原12番45号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.75517202",
+        "longitude": "135.3322389"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "六軒市民館",
+      "address": "大社町12番26号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.75532394",
+        "longitude": "135.337423"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "神原公民館",
+      "address": "神原６番11号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.75335943",
+        "longitude": "135.3328241"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "大社公民館",
+      "address": "柳本町１番37号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.74733056",
+        "longitude": "135.3413376"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "安井市民館",
+      "address": "安井町２番４号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.7394852",
+        "longitude": "135.3330998"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "広田山荘",
+      "address": "大社町７番17号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.75133723",
+        "longitude": "135.3400284"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "中央体育館（中央運動公園）",
+      "address": "河原町１番16号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.74791559",
+        "longitude": "135.3453034"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "上ケ原南小学校",
+      "address": "上ケ原九番町２番93号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.76093712",
+        "longitude": "135.3421499"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "広田小学校",
+      "address": "愛宕山７番24号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.75401002",
+        "longitude": "135.3487624"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "上ケ原中学校",
+      "address": "上ケ原九番町２番107号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.75956089",
+        "longitude": "135.3415209"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "市立西宮高等学校",
+      "address": "高座町14番117号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.75594091",
+        "longitude": "135.3437712"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "上ケ原公民館",
+      "address": "六軒町１番32号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.75566102",
+        "longitude": "135.3389203"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "上ケ原市民館",
+      "address": "上ケ原三番町６番22号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.76635815",
+        "longitude": "135.3445036"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "能登運動場",
+      "address": "能登町14番26号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.75337477",
+        "longitude": "135.3521429"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "上ケ原小学校",
+      "address": "上ケ原二番町３番13号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.76505963",
+        "longitude": "135.3500382"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "甲東小学校",
+      "address": "神呪町３番33号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.76182435",
+        "longitude": "135.35791"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "甲陵中学校",
+      "address": "上甲東園２丁目11番20号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.76905926",
+        "longitude": "135.3527752"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "甲東公民館",
+      "address": "上甲東園２丁目11番60号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.76859943",
+        "longitude": "135.3535124"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "甲東センター",
+      "address": "甲東園３丁目２番29号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.76723485",
+        "longitude": "135.3594224"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "段上小学校",
+      "address": "段上町７丁目５番21号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.76962495",
+        "longitude": "135.3699355"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "段上西小学校",
+      "address": "段上町２丁目８番24号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.76958406",
+        "longitude": "135.3665688"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "段上公民館",
+      "address": "段上町２丁目10番３号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.77010734",
+        "longitude": "135.3666928"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "段上センター",
+      "address": "段上町２丁目10番23号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.76988362",
+        "longitude": "135.3673252"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "甲武体育館",
+      "address": "上大市５丁目15番25号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.76604645",
+        "longitude": "135.3709308"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "甲陽園小学校",
+      "address": "甲陽園本庄町１番72号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.75966474",
+        "longitude": "135.3324434"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "甲陽園市民館",
+      "address": "甲陽園本庄町１番75号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.76077247",
+        "longitude": "135.3328838"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "苦楽園小学校",
+      "address": "苦楽園二番町18番12号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.76179497",
+        "longitude": "135.3140863"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "苦楽園中学校",
+      "address": "苦楽園三番町14番１号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.76173474",
+        "longitude": "135.3120022"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "越木岩公民館",
+      "address": "樋之池町５番29号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.75136236",
+        "longitude": "135.3233504"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "苦楽園市民館",
+      "address": "苦楽園五番町３番25号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.75610452",
+        "longitude": "135.3133861"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "柏堂市民館",
+      "address": "柏堂町13番16号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.76553878",
+        "longitude": "135.3125693"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "北夙川体育館",
+      "address": "樋之池町11番33号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.75206641",
+        "longitude": "135.3201479"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "北夙川小学校",
+      "address": "石刎町11番21号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.75208727",
+        "longitude": "135.3267626"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "夙川小学校",
+      "address": "久出ケ谷町８番４号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.74644191",
+        "longitude": "135.3247976"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "夙川公民館",
+      "address": "羽衣町１番39号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.74015053",
+        "longitude": "135.3279048"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "夙川西市民館",
+      "address": "大谷町３番50号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.73809038",
+        "longitude": "135.3210488"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "生瀬小学校",
+      "address": "生瀬町２丁目26番24号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.8179542",
+        "longitude": "135.3294679"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "生瀬市民館",
+      "address": "生瀬町２丁目20番22号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.81849183",
+        "longitude": "135.3302995"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "名塩小学校",
+      "address": "名塩２丁目11番40号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.83023654",
+        "longitude": "135.2975643"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "東山台小学校",
+      "address": "東山台２丁目８番地２",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.83117425",
+        "longitude": "135.311564"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "塩瀬中学校",
+      "address": "名塩木之元２番８号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.82575596",
+        "longitude": "135.3109843"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "塩瀬公民館",
+      "address": "名塩新町１番地",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.82639951",
+        "longitude": "135.3075305"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "塩瀬体育館",
+      "address": "東山台５丁目10番1",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.83412468",
+        "longitude": "135.3051908"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "山口小学校",
+      "address": "山口町下山口４丁目23番１号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.82730394",
+        "longitude": "135.2371585"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "北六甲台小学校",
+      "address": "北六甲台５丁目４番１号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.83403531",
+        "longitude": "135.2445696"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "船坂里山学校",
+      "address": "山口町船坂2103番地2",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.80497776",
+        "longitude": "135.2810591"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "船坂里山学校",
+      "address": "山口町船坂2103番地2",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.8056088",
+        "longitude": "135.2817938"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "山口中学校",
+      "address": "山口町上山口２丁目３番43号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.8281238",
+        "longitude": "135.2425558"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "山口公民館",
+      "address": "山口町下山口４丁目３番８号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.82840865",
+        "longitude": "135.2402898"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "市民交流センター",
+      "address": "高松町20番20号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.74571299",
+        "longitude": "135.3609174"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "県立西宮高等学校",
+      "address": "上甲東園２丁目４番32号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.76688818",
+        "longitude": "135.3525253"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "県立西宮北高等学校",
+      "address": "苦楽園二番町16番80号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.76090234",
+        "longitude": "135.3135494"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "県立西宮甲山高等学校",
+      "address": "鷲林寺字剣谷10号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.77906863",
+        "longitude": "135.311947"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "県立鳴尾高等学校",
+      "address": "学文殿町２丁目１番60号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.72527268",
+        "longitude": "135.3711946"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "県立西宮今津高等学校",
+      "address": "浜甲子園４丁目１番５号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.71842909",
+        "longitude": "135.3495959"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "香櫨園市民館分館",
+      "address": "屋敷町１２−１",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.73576045",
+        "longitude": "135.3260013"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "高木市民館",
+      "address": "高木東町３４番８号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.75128175",
+        "longitude": "135.3612489"
+      },
+      "category": "指定避難所"
+    },
+    {
+      "@type": "schema:Place",
+      "name": "高木北小学校",
+      "address": "薬師町7番５号",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.7548908",
+        "longitude": "135.3615508"
+      },
+      "category": "指定避難所"
+    }
+  ]
+}

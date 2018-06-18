@@ -8,6 +8,13 @@
 - 手動更新のため、西宮市がデータを更新した場合に反映までラグが発生する可能性があります
 
 ## データセット
+
+### 西宮市指定避難場所・広域避難場所データ
+[避難所(西宮市)](http://opendata.nishi.or.jp/opendata/ResultDetail.php?id=2)をJSON-LD形式に加工したものです。
+
+#### 出典
+- [避難所(西宮市)](http://opendata.nishi.or.jp/opendata/ResultDetail.php?id=2)（2018/02/07更新データをJSON-LD形式に加工）
+
 ### 西宮市ゴミ分別情報データ
 
 [西宮市のゴミ分別情報データ](http://opendata.nishi.or.jp/opendata/ResultDetail.php?id=26)をJSON-LD形式に加工したものです。
