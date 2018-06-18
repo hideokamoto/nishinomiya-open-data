@@ -1,0 +1,1719 @@
+{
+  "@context": {
+    "schema": "https://schema.org/",
+    "name": "schema:name",
+    "kana": "schema:alternateName",
+    "category": "schema:category",
+    "option": "schema:description"
+  },
+  "@graph": [
+    {
+      "@type": "schema:Thing",
+      "name": "アイスピック",
+      "kana": "アイスピック",
+      "category": "もやさないごみ",
+      "description": "厚紙や新聞紙等に包んで出す。"
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "アイロン",
+      "kana": "アイロン",
+      "category": "もやさないごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "アイロン台",
+      "kana": "アイロンダイ",
+      "category": "粗大ごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "アダプター（電源用）",
+      "kana": "アダプター（デンゲンヨウ）",
+      "category": "もやすごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "圧力鍋",
+      "kana": "アツリョクナベ",
+      "category": "もやさないごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "網戸",
+      "kana": "アミド",
+      "category": "粗大ごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "アルバム",
+      "kana": "アルバム",
+      "category": "もやすごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "アルミホイール（車）",
+      "kana": "アルミホイール（クルマ）",
+      "category": "収集不可",
+      "description": "販売店等に相談。"
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "衣装ケース",
+      "kana": "イショウケース",
+      "category": "粗大ごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "いす",
+      "kana": "イス",
+      "category": "粗大ごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "板切れ",
+      "kana": "イタキレ",
+      "category": "粗大ごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "一升びん",
+      "kana": "イッショウビン",
+      "category": "もやさないごみ",
+      "description": "できるだけ販売店へ返却。"
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "一斗缶",
+      "kana": "イットカン",
+      "category": "粗大ごみ",
+      "description": "中身を取り除く。"
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "衣類乾燥機",
+      "kana": "イルイカンソウキ",
+      "category": "収集不可",
+      "description": "家電リサイクル対象品。"
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "入れ歯",
+      "kana": "イレバ",
+      "category": "もやすごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "インクカートリッジ",
+      "kana": "インクカートリッジ",
+      "category": "もやすごみ",
+      "description": "できるだけ郵便局へ返却。"
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "植木の枝",
+      "kana": "ウエキノエダ",
+      "category": "収集不可",
+      "description": "西部総合処理センターへ自己搬入または業者に依頼。"
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "植木鉢（陶器製）（40cm未満）",
+      "kana": "ウエキバチ（トウキセイ）（40センチメートルミマン）",
+      "category": "もやさないごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "ウッドカーペット",
+      "kana": "ウッドカーペット",
+      "category": "粗大ごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "腕時計",
+      "kana": "ウデドケイ",
+      "category": "もやすごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "運動靴",
+      "kana": "ウンドウグツ",
+      "category": "もやすごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "エアコン",
+      "kana": "エアコン",
+      "category": "収集不可",
+      "description": "家電リサイクル対象品。"
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "エアゾール缶",
+      "kana": "エアゾールカン",
+      "category": "もやさないごみ",
+      "description": "中身を使い切ってから出す。"
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "エアゾール缶のキャップ（プラ製）",
+      "kana": "エアゾールカンノキャップ（プラセイ）",
+      "category": "その他プラ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "MD・CDコンポ",
+      "kana": "エムディー・シーディーコンポ",
+      "category": "粗大ごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "エンジンオイル",
+      "kana": "エンジンオイル",
+      "category": "収集不可",
+      "description": "販売店等に相談。"
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "延長コード（リールのない物）",
+      "kana": "エンチョウコード（リールノナイモノ）",
+      "category": "もやすごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "オートバイ（原付含む）",
+      "kana": "オートバイ（ゲンツキフクム）",
+      "category": "収集不可",
+      "description": "二輪車リサイクルコールセンターへ相談。"
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "オーブントースター",
+      "kana": "オーブントースター",
+      "category": "粗大ごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "落ち葉",
+      "kana": "オチバ",
+      "category": "もやすごみ",
+      "description": "もやすごみに混ぜて少量ずつ出す。"
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "おもちゃ（金属が含まれるもの）",
+      "kana": "オモチャ（キンゾクガフクマレルモノ）",
+      "category": "もやすごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "カーテン",
+      "kana": "カーテン",
+      "category": "もやすごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "カーナビ",
+      "kana": "カーナビ",
+      "category": "もやさないごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "カーペット",
+      "kana": "カーペット",
+      "category": "粗大ごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "懐中電灯",
+      "kana": "カイチュウデントウ",
+      "category": "もやすごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "カイロ（使い捨てを含む）",
+      "kana": "カイロ（ツカイステヲフクム）",
+      "category": "もやすごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "額縁（40cm以上）",
+      "kana": "ガクブチ（40センチメートルイジョウ）",
+      "category": "粗大ごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "傘",
+      "kana": "カサ",
+      "category": "もやすごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "飾り棚",
+      "kana": "カザリタナ",
+      "category": "粗大ごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "加湿器",
+      "kana": "カシツキ",
+      "category": "粗大ごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "菓子箱（紙製）",
+      "kana": "カシバコ（カミセイ）",
+      "category": "資源Ｂ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "ガスコンロ",
+      "kana": "ガスコンロ",
+      "category": "粗大ごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "カセットコンロ",
+      "kana": "カセットコンロ",
+      "category": "もやさないごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "カセットコンロ用ボンベ",
+      "kana": "カセットコンロヨウボンベ",
+      "category": "もやさないごみ",
+      "description": "中身を使い切ってから出す。"
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "カセットテープ（ケースを含む）",
+      "kana": "カセットテープ（ケースヲフクム）",
+      "category": "もやすごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "ガソリン",
+      "kana": "ガソリン",
+      "category": "収集不可",
+      "description": "販売店等に相談。"
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "カップ麺の容器（プラ製）",
+      "kana": "カップメンノヨウキ（プラセイ）",
+      "category": "その他プラ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "紙おむつ",
+      "kana": "カミオムツ",
+      "category": "もやすごみ",
+      "description": "汚物を取り除いて二重の袋に入れる。"
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "かみそり",
+      "kana": "カミソリ",
+      "category": "もやすごみ",
+      "description": "厚紙や新聞紙等に包んで出す。"
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "紙パック（牛乳や飲料など）",
+      "kana": "カミパック（ギュウニュウヤインリョウナド）",
+      "category": "資源Ａ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "カメラ",
+      "kana": "カメラ",
+      "category": "もやすごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "カラーコーン",
+      "kana": "カラーコーン",
+      "category": "粗大ごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "カレンダー",
+      "kana": "カレンダー",
+      "category": "資源Ｂ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "簡易便座（温水洗浄便座）",
+      "kana": "カンイベンザ（オンスイセンジョウベンザ）",
+      "category": "粗大ごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "緩衝材（プラ製）",
+      "kana": "カンショウザイ（プラセイ）",
+      "category": "その他プラ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "乾燥剤",
+      "kana": "カンソウザイ",
+      "category": "もやすごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "観葉植物（イミテーション）",
+      "kana": "カンヨウショクブツ（イミテーション）",
+      "category": "粗大ごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "キーボード（パソコン用）",
+      "kana": "キーボード（パソコンヨウ）",
+      "category": "もやすごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "木の枝・幹",
+      "kana": "キノエダ・ミキ",
+      "category": "収集不可",
+      "description": "西部総合処理センターへ自己搬入または業者に依頼。"
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "着物",
+      "kana": "キモノ",
+      "category": "もやすごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "キャリーケース",
+      "kana": "キャリーケース",
+      "category": "粗大ごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "教科書",
+      "kana": "キョウカショ",
+      "category": "資源Ｂ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "金庫（耐火）",
+      "kana": "キンコ（タイカ）",
+      "category": "収集不可",
+      "description": "販売店等に相談。"
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "くぎ",
+      "kana": "クギ",
+      "category": "もやさないごみ",
+      "description": "厚紙や新聞紙等に包んで出す。"
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "串（焼き鳥・だんごの竹串など）",
+      "kana": "クシ（ヤキトリ・ダンゴノタケグシナド）",
+      "category": "もやすごみ",
+      "description": "厚紙や新聞紙等に包んで出す。"
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "薬（家庭用の錠剤・カプセルなど）",
+      "kana": "クスリ（カテイヨウノジョウザイ・カプセルナド）",
+      "category": "もやすごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "薬のびん",
+      "kana": "クスリノビン",
+      "category": "もやさないごみ",
+      "description": "中身を取り除き、水洗いする。"
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "薬の容器（プラ製）",
+      "kana": "クスリノヨウキ（プラセイ）",
+      "category": "その他プラ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "クッション（40cm以上）",
+      "kana": "クッション（40センチメートルイジョウ）",
+      "category": "粗大ごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "クリーニングの透明カバー",
+      "kana": "クリーニングノトウメイカバー",
+      "category": "もやすごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "グローブ（野球用など）",
+      "kana": "グローブ（ヤキュウヨウナド）",
+      "category": "もやすごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "蛍光灯",
+      "kana": "ケイコウトウ",
+      "category": "もやさないごみ",
+      "description": "保護カバーや厚紙に包んで出す。"
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "携帯電話",
+      "kana": "ケイタイデンワ",
+      "category": "収集不可",
+      "description": "販売店に返却。"
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "ゲーム機（テレビゲームなど）",
+      "kana": "ゲームキ（テレビゲームナド）",
+      "category": "もやすごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "ゲームソフト",
+      "kana": "ゲームソフト",
+      "category": "もやすごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "化粧品のびん",
+      "kana": "ケショウヒンノビン",
+      "category": "もやさないごみ",
+      "description": "中身を取り除き、水洗いする。"
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "化粧品のびん（中身が取り除けない物）",
+      "kana": "ケショウヒンノビン（ナカミガトリノゾケナイモノ）",
+      "category": "もやすごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "玄関マット",
+      "kana": "ゲンカンマット",
+      "category": "粗大ごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "コード（電気コード）",
+      "kana": "コード（デンキコード）",
+      "category": "もやすごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "コーヒーメーカー",
+      "kana": "コーヒーメーカー",
+      "category": "粗大ごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "小型充電式電池",
+      "kana": "コガタジュウデンシキデンチ",
+      "category": "収集不可",
+      "description": "販売店等に相談。"
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "コタツの天板",
+      "kana": "コタツノテンイタ",
+      "category": "粗大ごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "ごみ箱（40cm以上）",
+      "kana": "ゴミバコ（40センチメートルイジョウ）",
+      "category": "粗大ごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "ゴムホース（リールのない物）",
+      "kana": "ゴムホース（リールノナイモノ）",
+      "category": "もやすごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "コンパネ",
+      "kana": "コンパネ",
+      "category": "粗大ごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "サーフボード（2m以下）",
+      "kana": "サーフボード（2メートルイカ）",
+      "category": "粗大ごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "酒類の紙パック",
+      "kana": "サケルイノカミパック",
+      "category": "資源Ａ",
+      "description": "内側にアルミ箔がついているものはもやすごみ。"
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "雑誌",
+      "kana": "ザッシ",
+      "category": "資源Ｂ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "殺虫剤（スプレー缶）",
+      "kana": "サッチュウザイ（スプレーカン）",
+      "category": "もやさないごみ",
+      "description": "中身を使い切ってから出す。"
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "座布団",
+      "kana": "ザブトン",
+      "category": "粗大ごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "シーツ",
+      "kana": "シーツ",
+      "category": "もやすごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "CD（ケースを含む）",
+      "kana": "シーディー（ケースヲフクム）",
+      "category": "もやすごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "CDラジカセ・CDプレーヤー",
+      "kana": "シーディーラジカセ・シーディープレーヤー",
+      "category": "粗大ごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "室内用滑り台・ブランコ",
+      "kana": "シツナイヨウスベリダイ・ブランコ",
+      "category": "粗大ごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "ジャージ（学校等の体操服・市販のもの）",
+      "kana": "ジャージ（ガッコウナドノタイソウフク・シハンノモノ）",
+      "category": "資源Ａ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "砂利",
+      "kana": "ジャリ",
+      "category": "収集不可",
+      "description": "販売店や工務店等に相談。"
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "シャンプーの容器（プラ製）",
+      "kana": "シャンプーノヨウキ（プラセイ）",
+      "category": "その他プラ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "シュレッダー",
+      "kana": "シュレッダー",
+      "category": "粗大ごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "消火器",
+      "kana": "ショウカキ",
+      "category": "収集不可",
+      "description": "販売店等に相談。"
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "しょうゆの容器（ペットボトル）",
+      "kana": "ショウユノヨウキ（ペットボトル）",
+      "category": "ペットボトル",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "食品トレイ",
+      "kana": "ショクヒントレイ",
+      "category": "その他プラ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "食用油（天ぷら油・オリーブオイルなど）",
+      "kana": "ショクヨウアブラ（テンプラアブラ・オリーブオイルナド）",
+      "category": "もやすごみ",
+      "description": "紙や布などに染み込ませるか凝固材で固めて出す。"
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "食用油のプラスチック製ボトル",
+      "kana": "ショクヨウユノプラスチックセイボトル",
+      "category": "もやすごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "人工芝",
+      "kana": "ジンコウシバ",
+      "category": "粗大ごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "シンナー類",
+      "kana": "シンナールイ",
+      "category": "収集不可",
+      "description": "販売店等に相談。"
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "新聞紙",
+      "kana": "シンブンシ",
+      "category": "資源Ａ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "スーツケース",
+      "kana": "スーツケース",
+      "category": "粗大ごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "スキーブーツ",
+      "kana": "スキーブーツ",
+      "category": "粗大ごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "スキャナー",
+      "kana": "スキャナー",
+      "category": "粗大ごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "スケート靴",
+      "kana": "スケートグツ",
+      "category": "粗大ごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "スリッパ立て",
+      "kana": "スリッパタテ",
+      "category": "粗大ごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "セーター",
+      "kana": "セーター",
+      "category": "もやすごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "背広",
+      "kana": "セビロ",
+      "category": "もやすごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "洗剤の容器（プラ製）",
+      "kana": "センザイノヨウキ（プラセイ）",
+      "category": "その他プラ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "洗面器",
+      "kana": "センメンキ",
+      "category": "もやすごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "体重計（ヘルスメーター）",
+      "kana": "タイジュウケイ（ヘルスメーター）",
+      "category": "もやすごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "タイヤ（自転車）",
+      "kana": "タイヤ（ジテンシャ）",
+      "category": "もやすごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "タイヤ（自転車以外）",
+      "kana": "タイヤ（ジテンシャイガイ）",
+      "category": "収集不可",
+      "description": "販売店等に相談。"
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "タイヤチェーン",
+      "kana": "タイヤチェーン",
+      "category": "粗大ごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "タオルケット",
+      "kana": "タオルケット",
+      "category": "もやすごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "高枝バサミ",
+      "kana": "タカエダバサミ",
+      "category": "粗大ごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "卵パック（紙製）",
+      "kana": "タマゴパック（カミセイ）",
+      "category": "資源Ｂ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "卵パック（プラ製）",
+      "kana": "タマゴパック（プラセイ）",
+      "category": "その他プラ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "ダンベル（5kg以上）",
+      "kana": "ダンベル（5キログラムイジョウ）",
+      "category": "粗大ごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "ダンベル（5kg未満）",
+      "kana": "ダンベル（5キログラムミマン）",
+      "category": "もやさないごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "ダンボール",
+      "kana": "ダンボール",
+      "category": "資源Ａ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "チャイルドシート",
+      "kana": "チャイルドシート",
+      "category": "粗大ごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "注射針",
+      "kana": "チュウシャバリ",
+      "category": "収集不可",
+      "description": "医療機関や薬局等に相談。"
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "チューブ類（マヨネーズ等）",
+      "kana": "チューブルイ（マヨネーズナド）",
+      "category": "もやすごみ",
+      "description": "中身の残っているもの。"
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "チラシ（折込み広告紙）",
+      "kana": "チラシ（オリコミコウコクシ）",
+      "category": "資源Ｂ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "使い捨てライター",
+      "kana": "ツカイステライター",
+      "category": "もやすごみ",
+      "description": "中身を使い切ってから出す。"
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "漬物樽（40cm以上）",
+      "kana": "ツケモノタル（40センチメートルイジョウ）",
+      "category": "粗大ごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "漬物の重石（プラスチック）",
+      "kana": "ツケモノノオモシ（プラスチック）",
+      "category": "粗大ごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "つっぱり棒（40cm以上）",
+      "kana": "ツッパリボウ（40センチメートルイジョウ）",
+      "category": "粗大ごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "つっぱり棒（40cm未満）",
+      "kana": "ツッパリボウ（40センチメートルミマン）",
+      "category": "もやすごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "釣竿",
+      "kana": "ツリザオ",
+      "category": "粗大ごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "DVD（ケースを含む）",
+      "kana": "ディーブイディー（ケースヲフクム）",
+      "category": "もやすごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "DVDプレーヤー",
+      "kana": "ディーブイディープレーヤー",
+      "category": "粗大ごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "テニスラケット",
+      "kana": "テニスラケット",
+      "category": "粗大ごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "テレビ（ブラウン管式・液晶・プラズマ式）",
+      "kana": "テレビ（ブラウンカンシキ・エキショウ・プラズマシキ）",
+      "category": "収集不可",
+      "description": "家電リサイクル対象品。"
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "電気ひげそり",
+      "kana": "デンキヒゲソリ",
+      "category": "もやすごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "電気ポット",
+      "kana": "デンキポット",
+      "category": "粗大ごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "電子キーボードの台",
+      "kana": "デンシキーボードノダイ",
+      "category": "粗大ごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "電子辞書（電子手帳）",
+      "kana": "デンシジショ（デンシテチョウ）",
+      "category": "もやすごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "電磁調理器",
+      "kana": "デンジチョウリキ",
+      "category": "粗大ごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "電子レンジ",
+      "kana": "デンシレンジ",
+      "category": "粗大ごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "電卓",
+      "kana": "デンタク",
+      "category": "もやすごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "電池（乾電池）",
+      "kana": "デンチ（カンデンチ）",
+      "category": "もやさないごみ",
+      "description": "水銀０のものはそのままコンテナへ。水銀を含むものは透明な袋に入れてコンテナ脇に出す。"
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "電池（ボタン電池・二次電池（小型充電式電池）",
+      "kana": "デンチ（ボタンデンチ・ニジデンチ（コガタジュウデンシキデンチ）",
+      "category": "収集不可",
+      "description": "販売店の回収箱へ。"
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "電動歯ブラシ",
+      "kana": "デンドウハブラシ",
+      "category": "もやすごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "電話機（FAX機能あり）",
+      "kana": "デンワキ（ファックスキノウアリ）",
+      "category": "粗大ごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "電話機（FAX機能なし）",
+      "kana": "デンワキ（ファックスキノウナシ）",
+      "category": "もやすごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "電話台",
+      "kana": "デンワダイ",
+      "category": "粗大ごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "電話帳",
+      "kana": "デンワチョウ",
+      "category": "資源Ｂ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "陶器類（40cm以上）",
+      "kana": "トウキルイ（40センチメートルイジョウ）",
+      "category": "粗大ごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "灯油",
+      "kana": "トウユ",
+      "category": "収集不可",
+      "description": "販売店等に相談。"
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "トースター",
+      "kana": "トースター",
+      "category": "もやさないごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "トタン板",
+      "kana": "トタンイタ",
+      "category": "粗大ごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "ドライヤー",
+      "kana": "ドライヤー",
+      "category": "もやすごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "鳥かご",
+      "kana": "トリカゴ",
+      "category": "粗大ごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "塗料",
+      "kana": "トリョウ",
+      "category": "収集不可",
+      "description": "販売店等に相談。"
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "塗料のスプレー缶",
+      "kana": "トリョウノスプレーカン",
+      "category": "もやさないごみ",
+      "description": "中身を使い切ってから出す。"
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "トロフィー（40cm以上）",
+      "kana": "トロフィー（40センチメートルイジョウ）",
+      "category": "粗大ごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "ナイフ",
+      "kana": "ナイフ",
+      "category": "もやさないごみ",
+      "description": "厚紙や新聞紙等に包んで出す。"
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "鍋",
+      "kana": "ナベ",
+      "category": "もやさないごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "乳酸飲料容器（プラ製）",
+      "kana": "ニュウサンインリョウヨウキ（プラセイ）",
+      "category": "その他プラ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "ぬいぐるみ（40cm以上）",
+      "kana": "ヌイグルミ（40センチメートルイジョウ）",
+      "category": "粗大ごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "ぬいぐるみ（40cm未満）",
+      "kana": "ヌイグルミ（40センチメートルミマン）",
+      "category": "もやすごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "粘土（工作用など）",
+      "kana": "ネンド（コウサクヨウナド）",
+      "category": "もやすごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "農薬",
+      "kana": "ノウヤク",
+      "category": "収集不可",
+      "description": "販売店等に相談。"
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "ノート型パソコン",
+      "kana": "ノートガタパソコン",
+      "category": "収集不可",
+      "description": "メーカー等に引き渡し。"
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "バーベキューコンロ",
+      "kana": "バーベキューコンロ",
+      "category": "粗大ごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "パイプハンガー",
+      "kana": "パイプハンガー",
+      "category": "粗大ごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "パソコン",
+      "kana": "パソコン",
+      "category": "収集不可",
+      "description": "メーカー等に引き渡し。"
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "パソコン用キーボード・マウス",
+      "kana": "パソコンヨウキーボード・マウス",
+      "category": "もやすごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "パソコン用ディスプレイ",
+      "kana": "パソコンヨウディスプレイ",
+      "category": "収集不可",
+      "description": "メーカー等に引き渡し。"
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "バッテリー",
+      "kana": "バッテリー",
+      "category": "収集不可",
+      "description": "販売店等に相談。"
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "バット",
+      "kana": "バット",
+      "category": "粗大ごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "発泡スチロール",
+      "kana": "ハッポウスチロール",
+      "category": "その他プラ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "花火",
+      "kana": "ハナビ",
+      "category": "もやすごみ",
+      "description": "水に浸し、発火しないようにして出す。"
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "針（裁縫用など）",
+      "kana": "ハリ（サイホウヨウナド）",
+      "category": "もやすごみ",
+      "description": "厚紙や新聞紙等に包んで出す。"
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "ハンガー",
+      "kana": "ハンガー",
+      "category": "もやすごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "ハンガーラック",
+      "kana": "ハンガーラック",
+      "category": "粗大ごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "ピアノ",
+      "kana": "ピアノ",
+      "category": "収集不可",
+      "description": "販売店等に相談。"
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "PHS",
+      "kana": "ピーエッチエス",
+      "category": "収集不可",
+      "description": "販売店に返却。"
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "ビーチパラソル",
+      "kana": "ビーチパラソル",
+      "category": "粗大ごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "美顔器",
+      "kana": "ビガンキ",
+      "category": "粗大ごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "ビデオカメラ",
+      "kana": "ビデオカメラ",
+      "category": "もやすごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "ビデオテープ（ケースを含む）",
+      "kana": "ビデオテープ（ケースヲフクム）",
+      "category": "もやすごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "ビデオデッキ",
+      "kana": "ビデオデッキ",
+      "category": "粗大ごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "雛人形（棚を含む）",
+      "kana": "ヒナニンギョウ（タナヲフクム）",
+      "category": "粗大ごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "火鉢",
+      "kana": "ヒバチ",
+      "category": "粗大ごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "百科事典",
+      "kana": "ヒャッカジテン",
+      "category": "資源Ｂ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "布団乾燥機",
+      "kana": "フトンカンソウキ",
+      "category": "粗大ごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "フライパン",
+      "kana": "フライパン",
+      "category": "もやさないごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "プリンター",
+      "kana": "プリンター",
+      "category": "粗大ごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "ブルーシート",
+      "kana": "ブルーシート",
+      "category": "もやすごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "フロッピーディスク（ケース含む）",
+      "kana": "フロッピーディスク（ケースフクム）",
+      "category": "もやすごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "風呂のふた",
+      "kana": "フロノフタ",
+      "category": "粗大ごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "プロパンガスボンベ",
+      "kana": "プロパンガスボンベ",
+      "category": "収集不可",
+      "description": "販売店等に相談。"
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "ヘアースプレー（スプレー缶）",
+      "kana": "ヘアースプレー（スプレーカン）",
+      "category": "もやさないごみ",
+      "description": "中身を使い切ってから出す。"
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "ペットのトイレ専用砂（紙製等）",
+      "kana": "ペットノトイレセンヨウスナ（カミセイナド）",
+      "category": "もやすごみ",
+      "description": "二重袋に入れるなどの工夫をして出す。"
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "ペットボトルのキャップ・ラベル",
+      "kana": "ペットボトルノキャップ・ラベル",
+      "category": "その他プラ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "ペット用サークル",
+      "kana": "ペットヨウサークル",
+      "category": "粗大ごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "ベニヤ板",
+      "kana": "ベニヤイタ",
+      "category": "粗大ごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "ベビーカー",
+      "kana": "ベビーカー",
+      "category": "粗大ごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "ヘルメット（単車用フルフェイス）",
+      "kana": "ヘルメット（タンシャヨウフルフェイス）",
+      "category": "粗大ごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "ヘルメット（半帽タイプ）",
+      "kana": "ヘルメット（ハンボウタイプ）",
+      "category": "もやさないごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "ペンキのスプレー缶",
+      "kana": "ペンキノスプレーカン",
+      "category": "もやさないごみ",
+      "description": "中身を使い切ってから出す。"
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "弁当箱",
+      "kana": "ベントウバコ",
+      "category": "もやすごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "ほうき（金属製含む）",
+      "kana": "ホウキ（キンゾクセイフクム）",
+      "category": "粗大ごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "包装紙",
+      "kana": "ホウソウシ",
+      "category": "資源Ｂ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "防虫剤",
+      "kana": "ボウチュウザイ",
+      "category": "もやすごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "包丁",
+      "kana": "ホウチョウ",
+      "category": "もやさないごみ",
+      "description": "厚紙や新聞紙等に包んで出す。"
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "ホース（リールのないもの）",
+      "kana": "ホース（リールノナイモノ）",
+      "category": "もやすごみ",
+      "description": "長いホースは短く切って出す。"
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "ボタン電池",
+      "kana": "ボタンデンチ",
+      "category": "収集不可",
+      "description": "販売店の回収箱へ。"
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "ポット（魔法瓶）",
+      "kana": "ポット（マホウビン）",
+      "category": "もやさないごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "ホットプレート",
+      "kana": "ホットプレート",
+      "category": "粗大ごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "保冷剤",
+      "kana": "ホレイザイ",
+      "category": "もやすごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "マイクスタンド",
+      "kana": "マイクスタンド",
+      "category": "粗大ごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "マウス（パソコン用）",
+      "kana": "マウス（パソコンヨウ）",
+      "category": "もやすごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "枕（40cm以上）",
+      "kana": "マクラ（40センチメートルイジョウ）",
+      "category": "粗大ごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "マッサージ機",
+      "kana": "マッサージキ",
+      "category": "粗大ごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "マッチ",
+      "kana": "マッチ",
+      "category": "もやすごみ",
+      "description": "水に浸し、発火しないようにして出す。"
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "まな板",
+      "kana": "マナイタ",
+      "category": "もやすごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "ミキサー",
+      "kana": "ミキサー",
+      "category": "粗大ごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "ミニコンポ",
+      "kana": "ミニコンポ",
+      "category": "粗大ごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "目覚まし時計",
+      "kana": "メザマシトケイ",
+      "category": "もやすごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "毛布",
+      "kana": "モウフ",
+      "category": "粗大ごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "ゆかた",
+      "kana": "ユカタ",
+      "category": "もやすごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "ライスハイザー（米びつ）",
+      "kana": "ライスハイザー（コメビツ）",
+      "category": "粗大ごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "ラジオ",
+      "kana": "ラジオ",
+      "category": "もやすごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "ランドセル",
+      "kana": "ランドセル",
+      "category": "もやすごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "リモコン",
+      "kana": "リモコン",
+      "category": "もやすごみ",
+      "description": "電池は取り外す"
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "冷蔵庫",
+      "kana": "レイゾウコ",
+      "category": "収集不可",
+      "description": "家電リサイクル対象品。"
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "冷凍庫",
+      "kana": "レイトウコ",
+      "category": "収集不可",
+      "description": "家電リサイクル対象品。"
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "レコード",
+      "kana": "レコード",
+      "category": "もやすごみ",
+      "description": "もやすごみに混ぜて少量ずつ出す。"
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "レジ袋",
+      "kana": "レジブクロ",
+      "category": "その他プラ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "レトルト食品パック",
+      "kana": "レトルトショクヒンパック",
+      "category": "もやすごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "レンジ台",
+      "kana": "レンジダイ",
+      "category": "粗大ごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "ローラースケート",
+      "kana": "ローラースケート",
+      "category": "もやすごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "ローラーブレード",
+      "kana": "ローラーブレード",
+      "category": "もやすごみ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "ワイシャツ",
+      "kana": "ワイシャツ",
+      "category": "資源Ａ",
+      "description": ""
+    },
+    {
+      "@type": "schema:Thing",
+      "name": "ワイン庫（ワインセラー）",
+      "kana": "ワインコ（ワインセラー）",
+      "category": "収集不可",
+      "description": "家電リサイクル対象品。"
+    }
+  ]
+}
