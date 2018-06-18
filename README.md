@@ -9,6 +9,13 @@
 
 ## データセット
 
+
+### 西宮市緊急時給水拠点一覧データ
+[緊急時給水拠点(西宮市)](http://opendata.nishi.or.jp/opendata/ResultDetail.php?id=30)をJSON-LD形式に加工したものです。
+
+#### 出典
+- [緊急時給水拠点(西宮市)](http://opendata.nishi.or.jp/opendata/ResultDetail.php?id=30)（2018/01/17更新データをJSON-LD形式に加工）
+
 ### 西宮市指定避難場所・広域避難場所データ
 [避難所(西宮市)](http://opendata.nishi.or.jp/opendata/ResultDetail.php?id=2)をJSON-LD形式に加工したものです。
 

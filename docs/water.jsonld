@@ -1,0 +1,489 @@
+{
+  "@context": {
+    "schema": "https://schema.org/",
+    "name": "schema:name",
+    "address": "schema:address",
+    "category": "schema:category",
+    "geo": "schema:geo",
+    "latitude": "schema:latitude",
+    "longitude": "schema:longitude",
+    "meta": "schema:PropertyValue"
+  },
+  "@graph": [
+    {
+      "@type": "schema:Place",
+      "name": "西宮東高等学校",
+      "address": "古川町１−１２",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.71515338",
+        "longitude": "135.3650342"
+      },
+      "category": "耐震性緊急貯水槽",
+      "@id": "1",
+      "meta": [
+        {
+          "@type": "schema:PropertyValue",
+          "name": "有効容量 (m2)",
+          "value": "100"
+        }
+      ]
+    },
+    {
+      "@type": "schema:Place",
+      "name": "今津中学校",
+      "address": "今津二葉町５−１５",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.72849345",
+        "longitude": "135.3496038"
+      },
+      "category": "耐震性緊急貯水槽",
+      "@id": "2",
+      "meta": [
+        {
+          "@type": "schema:PropertyValue",
+          "name": "有効容量 (m2)",
+          "value": "100"
+        }
+      ]
+    },
+    {
+      "@type": "schema:Place",
+      "name": "津門中央公園",
+      "address": "津門住江町３",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.73102",
+        "longitude": "135.3474241"
+      },
+      "category": "耐震性緊急貯水槽",
+      "@id": "3",
+      "meta": [
+        {
+          "@type": "schema:PropertyValue",
+          "name": "有効容量 (m2)",
+          "value": "200"
+        }
+      ]
+    },
+    {
+      "@type": "schema:Place",
+      "name": "夙川小学校",
+      "address": "久出ヶ谷町８−４",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.7468256",
+        "longitude": "135.3247607"
+      },
+      "category": "耐震性緊急貯水槽",
+      "@id": "4",
+      "meta": [
+        {
+          "@type": "schema:PropertyValue",
+          "name": "有効容量 (m2)",
+          "value": "60"
+        }
+      ]
+    },
+    {
+      "@type": "schema:Place",
+      "name": "山口センター",
+      "address": "山口町下山口４丁目３−８",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.82863574",
+        "longitude": "135.2402807"
+      },
+      "category": "耐震性緊急貯水槽",
+      "@id": "5",
+      "meta": [
+        {
+          "@type": "schema:PropertyValue",
+          "name": "有効容量 (m2)",
+          "value": "100"
+        }
+      ]
+    },
+    {
+      "@type": "schema:Place",
+      "name": "森具公園",
+      "address": "屋敷町１２",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.73570194",
+        "longitude": "135.3257191"
+      },
+      "category": "耐震性緊急貯水槽",
+      "@id": "6",
+      "meta": [
+        {
+          "@type": "schema:PropertyValue",
+          "name": "有効容量 (m2)",
+          "value": "60"
+        }
+      ]
+    },
+    {
+      "@type": "schema:Place",
+      "name": "上ヶ原南小学校",
+      "address": "上ヶ原九番町２−９３",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.7610798",
+        "longitude": "135.3427973"
+      },
+      "category": "耐震性緊急貯水槽",
+      "@id": "7",
+      "meta": [
+        {
+          "@type": "schema:PropertyValue",
+          "name": "有効容量 (m2)",
+          "value": "60"
+        }
+      ]
+    },
+    {
+      "@type": "schema:Place",
+      "name": "甲陵中学校",
+      "address": "上甲東園２丁目１１−２０",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.76830755",
+        "longitude": "135.3523757"
+      },
+      "category": "耐震性緊急貯水槽",
+      "@id": "8",
+      "meta": [
+        {
+          "@type": "schema:PropertyValue",
+          "name": "有効容量 (m2)",
+          "value": "60"
+        }
+      ]
+    },
+    {
+      "@type": "schema:Place",
+      "name": "春風小学校",
+      "address": "上甲子園３丁目８−３９",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.73089092",
+        "longitude": "135.3654863"
+      },
+      "category": "耐震性緊急貯水槽",
+      "@id": "9",
+      "meta": [
+        {
+          "@type": "schema:PropertyValue",
+          "name": "有効容量 (m2)",
+          "value": "60"
+        }
+      ]
+    },
+    {
+      "@type": "schema:Place",
+      "name": "両度緑地",
+      "address": "両度町１２２",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.7449477",
+        "longitude": "135.3546948"
+      },
+      "category": "耐震性緊急貯水槽",
+      "@id": "10",
+      "meta": [
+        {
+          "@type": "schema:PropertyValue",
+          "name": "有効容量 (m2)",
+          "value": "52"
+        }
+      ]
+    },
+    {
+      "@type": "schema:Place",
+      "name": "南甲子園小学校",
+      "address": "南甲子園３丁目９−１６",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.71847643",
+        "longitude": "135.3530119"
+      },
+      "category": "耐震性緊急貯水槽",
+      "@id": "11",
+      "meta": [
+        {
+          "@type": "schema:PropertyValue",
+          "name": "有効容量 (m2)",
+          "value": "60"
+        }
+      ]
+    },
+    {
+      "@type": "schema:Place",
+      "name": "高木公園",
+      "address": "高木東町３４",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.75102863",
+        "longitude": "135.3612016"
+      },
+      "category": "耐震性緊急貯水槽",
+      "@id": "12",
+      "meta": [
+        {
+          "@type": "schema:PropertyValue",
+          "name": "有効容量 (m2)",
+          "value": "100"
+        }
+      ]
+    },
+    {
+      "@type": "schema:Place",
+      "name": "浜脇小学校",
+      "address": "浜脇町５−４８",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.73218207",
+        "longitude": "135.3368873"
+      },
+      "category": "耐震性緊急貯水槽",
+      "@id": "13",
+      "meta": [
+        {
+          "@type": "schema:PropertyValue",
+          "name": "有効容量 (m2)",
+          "value": "60"
+        }
+      ]
+    },
+    {
+      "@type": "schema:Place",
+      "name": "越水浄水場配水池",
+      "address": "奥畑６−３５",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.75164363",
+        "longitude": "135.3366119"
+      },
+      "category": "緊急遮断弁付配水池",
+      "@id": "1",
+      "meta": [
+        {
+          "@type": "schema:PropertyValue",
+          "name": "有効容量 (m2)",
+          "value": "3,500"
+        }
+      ]
+    },
+    {
+      "@type": "schema:Place",
+      "name": "北山配水所配水池",
+      "address": "甲陽園目神山町２９",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.77085162",
+        "longitude": "135.3207622"
+      },
+      "category": "緊急遮断弁付配水池",
+      "@id": "2",
+      "meta": [
+        {
+          "@type": "schema:PropertyValue",
+          "name": "有効容量 (m2)",
+          "value": "500"
+        }
+      ]
+    },
+    {
+      "@type": "schema:Place",
+      "name": "西宮浜配水所",
+      "address": "西宮浜４丁目２",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.71654638",
+        "longitude": "135.3303367"
+      },
+      "category": "緊急遮断弁付配水池",
+      "@id": "3",
+      "meta": [
+        {
+          "@type": "schema:PropertyValue",
+          "name": "有効容量 (m2)",
+          "value": "1,500"
+        }
+      ]
+    },
+    {
+      "@type": "schema:Place",
+      "name": "丸山浄水場配水池",
+      "address": "山口町下山口１５８５−４２",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.83000732",
+        "longitude": "135.2553764"
+      },
+      "category": "緊急遮断弁付配水池",
+      "@id": "4",
+      "meta": [
+        {
+          "@type": "schema:PropertyValue",
+          "name": "有効容量 (m2)",
+          "value": "1,800"
+        }
+      ]
+    },
+    {
+      "@type": "schema:Place",
+      "name": "東山台配水所",
+      "address": "東山台２丁目３４",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.83130337",
+        "longitude": "135.3176473"
+      },
+      "category": "緊急遮断弁付配水池",
+      "@id": "5",
+      "meta": [
+        {
+          "@type": "schema:PropertyValue",
+          "name": "有効容量 (m2)",
+          "value": "5,000"
+        }
+      ]
+    },
+    {
+      "@type": "schema:Place",
+      "name": "北六甲台配水所",
+      "address": "北六甲台２丁目１７",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.833617",
+        "longitude": "135.2490773"
+      },
+      "category": "緊急遮断弁付配水池",
+      "@id": "6",
+      "meta": [
+        {
+          "@type": "schema:PropertyValue",
+          "name": "有効容量 (m2)",
+          "value": "750"
+        }
+      ]
+    },
+    {
+      "@type": "schema:Place",
+      "name": "鷲林寺南配水槽",
+      "address": "鷲林寺南町８",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.77195386",
+        "longitude": "135.3081738"
+      },
+      "category": "緊急遮断弁付配水池",
+      "@id": "7",
+      "meta": [
+        {
+          "@type": "schema:PropertyValue",
+          "name": "有効容量 (m2)",
+          "value": "70"
+        }
+      ]
+    },
+    {
+      "@type": "schema:Place",
+      "name": "目神山配水槽",
+      "address": "甲陽園目神山町３２",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.76804676",
+        "longitude": "135.3304364"
+      },
+      "category": "緊急遮断弁付配水池",
+      "@id": "8",
+      "meta": [
+        {
+          "@type": "schema:PropertyValue",
+          "name": "有効容量 (m2)",
+          "value": "150"
+        }
+      ]
+    },
+    {
+      "@type": "schema:Place",
+      "name": "苦楽園中区配水槽",
+      "address": "苦楽園二番町１８",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.76218584",
+        "longitude": "135.3147586"
+      },
+      "category": "緊急遮断弁付配水池",
+      "@id": "9",
+      "meta": [
+        {
+          "@type": "schema:PropertyValue",
+          "name": "有効容量 (m2)",
+          "value": "240"
+        }
+      ]
+    },
+    {
+      "@type": "schema:Place",
+      "name": "苦楽園高区配水槽",
+      "address": "苦楽園三番町１５",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.76258219",
+        "longitude": "135.310415"
+      },
+      "category": "緊急遮断弁付配水池",
+      "@id": "10",
+      "meta": [
+        {
+          "@type": "schema:PropertyValue",
+          "name": "有効容量 (m2)",
+          "value": "150"
+        }
+      ]
+    },
+    {
+      "@type": "schema:Place",
+      "name": "名塩さくら台配水槽",
+      "address": "塩瀬町名塩５３１３−１",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.84302038",
+        "longitude": "135.2726303"
+      },
+      "category": "緊急遮断弁付配水池",
+      "@id": "11",
+      "meta": [
+        {
+          "@type": "schema:PropertyValue",
+          "name": "有効容量 (m2)",
+          "value": "360"
+        }
+      ]
+    },
+    {
+      "@type": "schema:Place",
+      "name": "宝生ヶ丘高区配水槽",
+      "address": "塩瀬町生瀬１１９９−２",
+      "geo": {
+        "@type": "schema:GeoCoordinates",
+        "latitude": "34.8130177",
+        "longitude": "135.3267181"
+      },
+      "category": "緊急遮断弁付配水池",
+      "@id": "12",
+      "meta": [
+        {
+          "@type": "schema:PropertyValue",
+          "name": "有効容量 (m2)",
+          "value": "75"
+        }
+      ]
+    }
+  ]
+}
